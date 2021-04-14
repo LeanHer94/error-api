@@ -1,6 +1,6 @@
 {
-  "name": "hl_error_api",
-  "version": "1.0.4",
+  "name": "error-api.hl",
+  "version": "1.0.5",
   "description": "",
   "main": "lib/index.js",
   "types": "lib",
